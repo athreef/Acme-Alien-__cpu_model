@@ -1,0 +1,6 @@
+.build/
+*.sw*
+.DS_Store
+Acme-Alien-__cpu_model-*/
+Acme-Alien-__cpu_model-*.tar.gz
+
